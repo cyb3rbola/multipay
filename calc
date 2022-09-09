@@ -33,6 +33,3 @@ for meva in mevalar:
     print(meva)
 print("Dastur tugadi")    
     
-    
-    
-    
